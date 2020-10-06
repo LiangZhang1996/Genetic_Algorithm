@@ -1,0 +1,1 @@
+print('./fig/test5.png','-dpng','-r300')
